@@ -10,6 +10,5 @@
     },
     "scripts": {
         "start": "node index.js"
-    },
-    "TOKEN": "OTIyNDk4MjM5MDU0MzQ4Mjk4.YcCVbw.9fq0uxj_iMYnT9r0yShamfJWuZQ"
+    }
 }
