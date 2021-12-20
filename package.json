@@ -1,0 +1,11 @@
+{
+    "name": "scrimsbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "Laxe",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.3.1"
+    }
+}
