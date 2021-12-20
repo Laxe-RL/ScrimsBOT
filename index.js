@@ -5,7 +5,7 @@ Client.on("ready", () => {
     console.log("bot opérationel");
 });
 
-Client.login(process.env.TOKEN);
+Client.login("OTIyNDk4MjM5MDU0MzQ4Mjk4.YcCVbw.AFoWDD6Vhzhgmta2GUN8b35TWbY");
 
 
 
